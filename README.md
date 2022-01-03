@@ -1,7 +1,6 @@
-# awesome-practical-svelte
+# Learn Svelte and Sveltekit by building stuff 
 
-Learn Svelte and Sveltekit by building stuff 
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Svelte
 
