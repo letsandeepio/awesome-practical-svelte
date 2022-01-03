@@ -1,16 +1,15 @@
-# Learn Svelte and Sveltekit by building stuff 
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![alt text](https://raw.githubusercontent.com/sveltejs/branding/master/svelte-horizontal.svg)
 
+<center>LEARN BY BUILDING STUFF</center><br>
+
+Curated list of resources to help you learn Svelte faster by building practical projects. 
 # Svelte
-
 #TODO
-
-
 # Sveltekit
 
 
-- [Youtube Videp](https://www.youtube.com/watch?v=UU7MgYIbtAk) - Create a Pokedex using the PokeAPI by James Q Quick.
+- [Youtube Video](https://www.youtube.com/watch?v=UU7MgYIbtAk) - Create a Pokedex using the PokeAPI by James Q Quick.
 - [Youtube Video](https://www.youtube.com/watch?v=zH2qG9YwN3s) - Create a simple blog by Scott Spence.
 - [Youtube Video](https://www.youtube.com/watch?v=mPQyckogDYc) - Supabase & Sveltekit - Build Twitter in 75 minutes by Svelte Mastery.
 - [Youtube Video](https://youtu.be/YipaPr4Aex8) - Build a Todo App with SvelteKit and Tailwind CSS by James Q Quick.
