@@ -1,11 +1,17 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![alt text](https://raw.githubusercontent.com/sveltejs/branding/master/svelte-horizontal.svg)
 
-<center>LEARN BY BUILDING STUFF</center><br>
+<center>
+<img src=https://raw.githubusercontent.com/sveltejs/branding/master/svelte-horizontal.svg>
+
+LEARN BY BUILDING STUFF</center><br>
 
 Curated list of resources to help you learn Svelte faster by building practical projects. 
 # Svelte
-#TODO
+
+
+- [Youtube Video](https://youtu.be/3TVy6GdtNuQ) - Build a Feedback app by Traversy media
+- [Youtube Video](https://youtu.be/lnpdn2rE2N8) - Build a Polling App by Net Ninja Tutorials
+
 # Sveltekit
 
 
